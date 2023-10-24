@@ -1,1 +1,1 @@
-### Light and Dark Mode using daisyUI
+Light and Dark Mode using daisyUI
